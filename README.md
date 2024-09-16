@@ -1,5 +1,4 @@
-# Hi, I'm Gerardo Moreno
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![header](images/github-header-image.png)
 
 ## About me:
 
